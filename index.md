@@ -1,6 +1,6 @@
 ## Sam Vonderahe's first CS193 Lab
 Favorite things about CS193
-- Taught by TA's
+- Taught by TAs
 - Seems like usefull information will be covered
 - Short lecture/lab once a week
 
