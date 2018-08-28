@@ -2,7 +2,7 @@
 Favorite things about CS193
 - Taught by TA's
 - Seems like usefull information will be covered
-
+- Short lecture/lab once a week
 
 
 
